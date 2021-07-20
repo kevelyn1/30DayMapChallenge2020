@@ -1,16 +1,17 @@
 ---
 layout: article
-title: Day 14 - Climate change - Temperature Anomaly
-modified: 2020-11-14
+title: Day 15 - Connections - Temperature Anomaly
+modified: 2020-11-15
 categories: mapchallenge
 image:
-  teaser: day14_climate_change_temp_anomaly_teaser.png
+  teaser: day15_connections_mobility_teaser.png
 
-January 2020 was super warm in Estonia and the temperature anomaly was almost up to +10 degrees compared to the long-term historical average. These anomalies are becoming a norm, unfortunately. I interpolated the temperature anomalies and averaged the values from the interpolated raster to voronoi polygons that were generated based on territorial communities' centroids.
-Used tools: QGIS
-Data: Estonian Weather Service
+Connections between Estonian territorial communities based on the regular movements in January 2016.
+
+Used tools: Python, QGIS
+Data: Uni Tartu Mobility Lab
 
 
-![image of categories](../../images/day14_climate_change_temp_anomaly.png)
+![image of categories](../../images/day15_connections_mobility.png)
 
-[Link to Twitter post](https://twitter.com/evelynuuemaa/status/1327549982971400192)
+[Link to Twitter post](https://twitter.com/evelynuuemaa/status/1327900766200279040)
