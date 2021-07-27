@@ -5,6 +5,7 @@ modified: 2020-11-4
 categories: mapchallenge
 image:
   teaser: day4_hexagons_lorest_loss_teaser.png
+---
 
 4.Hexagons: Forest loss in #Estonia from 2001 to 2019 based on #GLobalForestChange data. The analysis was done for 3km hexagons. Forest loss was summed for each hexagon and proportion of loss was estimated in relation to the forest cover.
 
