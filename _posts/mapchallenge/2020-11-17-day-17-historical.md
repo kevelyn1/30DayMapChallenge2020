@@ -5,8 +5,11 @@ modified: 2020-11-17
 categories: mapchallenge
 image:
   teaser: day17_historical_lotr_teaser.png
+---
+
 Lord of The Rings style Estonia that looks historical style, although is a fantasy. This map has been created already before, so a little bit of cheating ;)
-The QGIS style created for this map is available [on my github](https://github.com/kevelyn1/qgis_styles/tree/master/LOTR_style)
+
+Methods: The QGIS style created for this map is available [on my github](https://github.com/kevelyn1/qgis_styles/tree/master/LOTR_style)
 
 Used tools: QGIS
 Data: Estonian Land Board
