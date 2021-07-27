@@ -5,9 +5,12 @@ modified: 2020-11-22
 categories: mapchallenge
 image:
   teaser: day22_movement_movements_teaser.png
-Regular movements between Estonian territorial communities in January 2016
+---
+
+Regular movements between Estonian territorial communities in January 2016.
 
 Used tools: QGIS
+
 Data: Uni Tartu Mobility Lab
 
 
