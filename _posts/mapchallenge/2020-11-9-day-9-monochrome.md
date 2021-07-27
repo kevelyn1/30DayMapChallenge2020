@@ -5,6 +5,7 @@ modified: 2020-11-9
 categories: mapchallenge
 image:
   teaser: day9_monochrome_cities_teaser.png
+---
 
 Four largest cities of Estonia mapped in a 3km-radius buffers.
 Data: Estonian Land Board
