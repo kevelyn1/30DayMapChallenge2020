@@ -8,7 +8,10 @@ image:
 ---
 
 Four largest cities of Estonia mapped in a 3km-radius buffers.
+
 Data: Estonian Land Board
+
+Tools: QGIS
 
 ![image of categories](../../images/day9_monochrome_cities.png)
 
