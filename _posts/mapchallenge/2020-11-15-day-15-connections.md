@@ -5,6 +5,7 @@ modified: 2020-11-15
 categories: mapchallenge
 image:
   teaser: day15_connections_mobility_teaser.png
+---
 
 Connections between Estonian territorial communities based on the regular movements in January 2016.
 
