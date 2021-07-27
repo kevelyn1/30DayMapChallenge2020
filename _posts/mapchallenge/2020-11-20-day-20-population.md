@@ -5,9 +5,14 @@ modified: 2020-11-20
 categories: mapchallenge
 image:
   teaser: day20_population_flag_teaser.png
-Population of Estonia mapped as its flag colors - each color has approx. the same. I used administrative units to identify the iso-population areas. Simple but very cool idea from [here](https://bit.ly/3nBcHAo)
+---
+
+Population of Estonia mapped as its flag colors - each color has approx. the same. 
+
+Methods: I used administrative units to identify the iso-population areas. Simple but very cool idea from [here](https://bit.ly/3nBcHAo)
 
 Used tools: QGIS
+
 Data: Statistics Estonia
 
 
