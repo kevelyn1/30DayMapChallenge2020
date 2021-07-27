@@ -5,9 +5,12 @@ modified: 2020-11-24
 categories: mapchallenge
 image:
   teaser: day24_elevation_neugrund_teaser.png
+---
+
 The bathymetry around Osmussaar island and Neugrund meteorite crater. Neugrund is the biggest meteorite crater of Estonia and one of the best–preserved marine impact structures in the world. I used paper-cut style which I really like :)  
 
-Used tools: QGIS
+Tools: QGIS
+
 Data: [EMODnet DBM](https://www.emodnet-bathymetry.eu/data-products)
 
 
