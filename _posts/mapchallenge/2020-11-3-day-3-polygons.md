@@ -11,6 +11,7 @@ The hierarchy of the enumeration units in #Estonia starting from the smallest: c
 An enumeration unit is an area defined for a particular purpose (often other than collecting data) and within which data are collected and aggregated (e.g. administrative units). Enumeration units are most often used for choropleth map.
 
 Data: Estonian Land Board Cadastral units and Administrative units
+
 Tools: QGIS
 
 ![image of categories](../../images/day3_polygons_enumeration.gif)
