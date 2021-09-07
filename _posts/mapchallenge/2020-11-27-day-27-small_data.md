@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Day 27 - Small data - Hinde-and-seek
+title: Day 27 - Small data - Hide-and-seek
 modified: 2020-11-27
 categories: mapchallenge
 image:
